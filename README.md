@@ -53,13 +53,13 @@
 <br/>
 <br/>
 
-## Stats
+## 📚 *Stats*
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dabee-ee&show_icons=true&theme=radical)
 
 <br/>
 <br/>
 
-## Algorithm
+## 👩🏻‍🔬 *Algorithm*
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dabee030)](https://solved.ac/dabee030)
 
 <br/>
