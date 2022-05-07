@@ -47,4 +47,25 @@
 <br/>
 <br/>
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dabee-ee)](https://github.com/anuraghazra/github-readme-stats)
+
+<br/>
+<br/>
+
+## Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dabee-ee&show_icons=true&theme=radical)
+
+## Algorithm
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dabee030)](https://solved.ac/dabee030)
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDabee-ee&count_bg=%23FFB9B9&title_bg=%23DEDEDE&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)                  
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&text=Thank%20You%20For%20Visiting%20My%20Github&&fontColor=fff&fontSize=12)
