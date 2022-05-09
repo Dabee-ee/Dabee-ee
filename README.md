@@ -77,6 +77,7 @@
 
 ## 👩🏻‍🔬 *Currently Learning*
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dabee-ee&repo=web-game-with-vue&theme=radical)](https://github.com/Dabee-ee/web-game-with-vue)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dabee-ee&repo=webpack-basic&theme=gruvbox_light)](https://github.com/Dabee-ee/webpack-basic)
 
 
 <br/>
