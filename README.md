@@ -75,10 +75,8 @@
 <br/>
 <br/> -->
 
-## 📚 *Study*
-- Java Script
-- Vue
-- Type Script
+## 👩🏻‍🔬 *Currently Learning*
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dabee-ee&repo=web-game-with-vue&theme=radical)](https://github.com/Dabee-ee/web-game-with-vue)
 
 
 <br/>
